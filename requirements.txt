@@ -1,1 +1,7 @@
 streamlit
+requests
+beautifulsoup4
+PyMuPDF
+matplotlib
+seaborn
+plotly
